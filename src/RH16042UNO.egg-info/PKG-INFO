@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
 Name: RH16042UNO
-Version: 0.1.1
+Version: 0.1.2
 Summary: Librería para resolver sistemas de ecuaciones lineales y no lineales
-Author: Tu Nombre
+Author: Kevin Rivera
 Author-email: Kevin Rivera <rh16042@ues.edu.sv>
 License: MIT
 Project-URL: Homepage, https://github.com/keriz-rh/RH16042UNO?tab=readme-ov-file

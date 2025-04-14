@@ -4,8 +4,8 @@ setup(
     name="RH16042UNO",
     version="0.1.0",
     description="Librería para resolver sistemas de ecuaciones lineales y no lineales",
-    author="Tu Nombre",
-    author_email="tu.email@ejemplo.com",
+    author="Kevin Rivera",
+    author_email="rh16042@ues.edu.sv",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[

@@ -1,4 +1,10 @@
-Aquí tienes el contenido listo para copiar en un archivo `.md`:
+## Instalación RH16042UNO
+
+Para instalar la biblioteca, simplemente ejecuta:
+
+```bash
+pip install RH16042UNO
+```
 
 ```markdown
 # RH16042UNO
@@ -7,20 +13,13 @@ Aquí tienes el contenido listo para copiar en un archivo `.md`:
 
 ### Métodos Implementados
 
-- **Eliminación de Gauss**
-- **Gauss-Jordan**
-- **Regla de Cramer**
-- **Descomposición LU**
-- **Método de Jacobi**
-- **Método de Gauss-Seidel**
-- **Método de Bisección**
-
-## Instalación
-
-Para instalar la biblioteca, simplemente ejecuta:
-
-```bash
-pip install RH16042UNO
+--Eliminación de Gauss**
+--Gauss-Jordan**
+--Regla de Cramer**
+--Descomposición LU**
+--Método de Jacobi**
+--Método de Gauss-Seidel**
+--Método de Bisección**
 ```
 
 Si deseas instalarla desde el código fuente:
@@ -157,4 +156,3 @@ Esta biblioteca está bajo la licencia **MIT**. Para más detalles, consulta el 
 
 ¡Gracias por usar RH16042UNO! Esperamos que te sea útil en tus proyectos.
 ```
-

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "RH16042UNO"
-version = "0.1.2"  # Cambiar de 0.1.1 a 0.1.2 para una actualización menor
+version = "0.1.3"  # Cambiar de 0.1.2 a 0.1.3 para una actualización menor de tipografía
 description = "Librería para resolver sistemas de ecuaciones lineales y no lineales"
 readme = "README.md"
 authors = [

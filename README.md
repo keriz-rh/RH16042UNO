@@ -8,21 +8,19 @@ pip install RH16042UNO
 
 ## RH16042UNO
 
-```markdown
-
 
 **RH16042UNO** es una biblioteca para resolver sistemas de ecuaciones lineales y no lineales utilizando diferentes métodos numéricos.
 
 ### Métodos Implementados
 
---Eliminación de Gauss**
---Gauss-Jordan**
---Regla de Cramer**
---Descomposición LU**
---Método de Jacobi**
---Método de Gauss-Seidel**
---Método de Bisección**
-```
+-- Eliminación de Gauss
+-- Gauss-Jordan
+-- Regla de Cramer
+-- Descomposición LU
+-- Método de Jacobi
+-- Método de Gauss-Seidel
+-- Método de Bisección
+
 
 Si deseas instalarla desde el código fuente:
 

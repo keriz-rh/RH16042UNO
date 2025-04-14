@@ -1,4 +1,4 @@
-# Instalación RH16042UNO
+# Instalación
 
 Para instalar la biblioteca, simplemente ejecuta:
 

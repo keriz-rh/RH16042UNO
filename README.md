@@ -5,7 +5,7 @@ Para instalar la biblioteca, simplemente ejecuta:
 ```bash
 pip install RH16042UNO
 ```
-
+---
 ## RH16042UNO
 
 
@@ -21,7 +21,7 @@ pip install RH16042UNO
 + Método de Gauss-Seidel
 + Método de Bisección
 
-
+---
 Si deseas instalarla desde el código fuente:
 
 1. Clona el repositorio:
@@ -38,7 +38,7 @@ Si deseas instalarla desde el código fuente:
    ```bash
    pip install .
    ```
-
+---
 ## Uso
 
 ### Ejemplo 1: **Eliminación de Gauss**

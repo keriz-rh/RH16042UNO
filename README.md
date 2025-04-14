@@ -13,13 +13,13 @@ pip install RH16042UNO
 
 ### Métodos Implementados
 
--- Eliminación de Gauss
--- Gauss-Jordan
--- Regla de Cramer
--- Descomposición LU
--- Método de Jacobi
--- Método de Gauss-Seidel
--- Método de Bisección
++ Eliminación de Gauss
++ Gauss-Jordan
++ Regla de Cramer
++ Descomposición LU
++ Método de Jacobi
++ Método de Gauss-Seidel
++ Método de Bisección
 
 
 Si deseas instalarla desde el código fuente:

@@ -152,7 +152,7 @@ Si deseas contribuir a la biblioteca, puedes hacer un *fork* del proyecto y envi
 
 ## Licencia
 
-Esta biblioteca está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Esta biblioteca está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE]([LICENSE](https://github.com/keriz-rh/RH16042UNO/blob/master/License)).
 
 ---
 

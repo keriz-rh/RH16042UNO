@@ -1,4 +1,4 @@
-## Instalación RH16042UNO
+# Instalación RH16042UNO
 
 Para instalar la biblioteca, simplemente ejecuta:
 
@@ -6,8 +6,10 @@ Para instalar la biblioteca, simplemente ejecuta:
 pip install RH16042UNO
 ```
 
+## RH16042UNO
+
 ```markdown
-# RH16042UNO
+
 
 **RH16042UNO** es una biblioteca para resolver sistemas de ecuaciones lineales y no lineales utilizando diferentes métodos numéricos.
 

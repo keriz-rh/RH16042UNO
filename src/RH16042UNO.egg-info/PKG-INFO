@@ -1,0 +1,44 @@
+Metadata-Version: 2.4
+Name: RH16042UNO
+Version: 0.1.0
+Summary: Librería para resolver sistemas de ecuaciones lineales y no lineales
+Author: Tu Nombre
+Author-email: Kevin Rivera <rh16042@ues.edu.sv>
+License: MIT
+Project-URL: Homepage, https://github.com/username/RH16042UNO
+Project-URL: Bug Tracker, https://github.com/username/RH16042UNO/issues
+Keywords: numerical methods,linear equations,non-linear equations
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.19.0
+Dynamic: author
+Dynamic: requires-python
+
+# CARNETUNO
+
+Una biblioteca Python para resolver sistemas de ecuaciones lineales y no lineales utilizando diversos métodos numéricos.
+
+## Características
+
+Esta biblioteca implementa los siguientes métodos numéricos:
+
+- **Sistemas de ecuaciones lineales**:
+  - Eliminación de Gauss
+  - Gauss-Jordan
+  - Regla de Cramer
+  - Descomposición LU
+  - Método iterativo de Jacobi
+  - Método iterativo de Gauss-Seidel
+
+- **Ecuaciones no lineales**:
+  - Método de Bisección
+
+## Instalación
+
+Puedes instalar esta biblioteca directamente desde PyPI:
+
+```bash
+pip install CARNETUNO

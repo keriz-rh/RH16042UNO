@@ -1,4 +1,4 @@
-# CARNETUNO
+# RH16042TUNO
 
 Una biblioteca Python para resolver sistemas de ecuaciones lineales y no lineales utilizando diversos métodos numéricos.
 

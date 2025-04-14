@@ -21,7 +21,7 @@ def gauss_seidel(A, b, x0=None, tol=1e-6, max_iter=100):
         
     Examples:
         >>> import numpy as np
-        >>> from carnetuno import gauss_seidel
+        >>> from rh16042uno import gauss_seidel
         >>> A = np.array([[10, -1, 2], [-1, 11, -1], [2, -1, 10]], dtype=float)
         >>> b = np.array([6, 25, -11], dtype=float)
         >>> x, iterations = gauss_seidel(A, b)

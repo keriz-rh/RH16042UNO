@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: RH16042UNO
-Version: 0.1.0
+Version: 0.1.1
 Summary: Librería para resolver sistemas de ecuaciones lineales y no lineales
 Author: Tu Nombre
 Author-email: Kevin Rivera <rh16042@ues.edu.sv>
@@ -41,4 +41,4 @@ Esta biblioteca implementa los siguientes métodos numéricos:
 Puedes instalar esta biblioteca directamente desde PyPI:
 
 ```bash
-pip install CARNETUNO
+pip install RH16042UNO

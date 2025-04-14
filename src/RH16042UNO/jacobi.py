@@ -21,7 +21,7 @@ def jacobi(A, b, x0=None, tol=1e-6, max_iter=100):
         
     Examples:
         >>> import numpy as np
-        >>> from carnetuno import jacobi
+        >>> from rh16042uno import jacobi
         >>> A = np.array([[10, -1, 2], [-1, 11, -1], [2, -1, 10]], dtype=float)
         >>> b = np.array([6, 25, -11], dtype=float)
         >>> x, iterations = jacobi(A, b)

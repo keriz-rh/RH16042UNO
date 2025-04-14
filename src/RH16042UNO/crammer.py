@@ -17,7 +17,7 @@ def crammer(A, b):
         
     Examples:
         >>> import numpy as np
-        >>> from carnetuno import crammer
+        >>> from rh16042uno import crammer
         >>> A = np.array([[3, 2, -1], [2, -2, 4], [-1, 0.5, -1]], dtype=float)
         >>> b = np.array([1, -2, 0], dtype=float)
         >>> x = crammer(A, b)

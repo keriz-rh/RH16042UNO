@@ -19,7 +19,7 @@ def bisection(func, a, b, tol=1e-6, max_iter=100):
         int: Número de iteraciones realizadas.
         
     Examples:
-        >>> from carnetuno import bisection
+        >>> from rh16042uno import bisection
         >>> # Definir una función
         >>> def f(x):
         ...     return x**3 - x - 2

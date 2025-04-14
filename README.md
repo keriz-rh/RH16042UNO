@@ -1,4 +1,4 @@
-# RH16042TUNO
+# RH16042UNO
 
 Una biblioteca Python para resolver sistemas de ecuaciones lineales y no lineales utilizando diversos métodos numéricos.
 
@@ -22,4 +22,4 @@ Esta biblioteca implementa los siguientes métodos numéricos:
 Puedes instalar esta biblioteca directamente desde PyPI:
 
 ```bash
-pip install CARNETUNO
+pip install RH16042UNO

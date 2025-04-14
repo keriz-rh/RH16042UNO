@@ -5,7 +5,7 @@ Summary: Librería para resolver sistemas de ecuaciones lineales y no lineales
 Author: Tu Nombre
 Author-email: Kevin Rivera <rh16042@ues.edu.sv>
 License: MIT
-Project-URL: Homepage, https://github.com/username/RH16042UNO
+Project-URL: Homepage, https://github.com/keriz-rh/RH16042UNO?tab=readme-ov-file
 Project-URL: Bug Tracker, https://github.com/username/RH16042UNO/issues
 Keywords: numerical methods,linear equations,non-linear equations
 Classifier: Programming Language :: Python :: 3
@@ -17,7 +17,7 @@ Requires-Dist: numpy>=1.19.0
 Dynamic: author
 Dynamic: requires-python
 
-# CARNETUNO
+# RH16042UNO
 
 Una biblioteca Python para resolver sistemas de ecuaciones lineales y no lineales utilizando diversos métodos numéricos.
 
